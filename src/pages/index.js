@@ -8,7 +8,6 @@ import E from "../components/E"
 import F from "../components/F"
 import G from "../components/G"
 import H from "../components/H"
-// import I from "../components/I"
 import J from "../components/J"
 import K from "../components/K"
 import L from "../components/L"
@@ -38,7 +37,6 @@ const IndexPage = () => (
     <G />
     <G />
     <H />
-    {/* <I /> */}
     <J />
     <K />
     <L />
